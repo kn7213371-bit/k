@@ -1,0 +1,40 @@
+{
+  "auth_users": [
+    {
+      "email": "user@test.com",
+      "username": "user",
+      "passwordHash": "$2b$10$LIuowUvNA..QMQK6FVE/jO5VPLnBjTNJ2anrmjOKH.Hqugu2jRAI.",
+      "role": "user",
+      "id": "6311730"
+    }
+  ],
+  "users": [
+    {
+      "name": "eyad",
+      "role": "user"
+    },
+    {
+      "name": "ahmed",
+      "role": "admin"
+    },
+    {
+      "name": "test user",
+      "email": "test_user@email.com",
+      "age": 25,
+      "hobbies": [
+        "gaming"
+      ],
+      "id": "1507856"
+    }
+  ],
+  "books": [],
+  "sessions": [
+    {
+      "session_id": "ea657a3fb087073035591ea982c1e3e4",
+      "email": "user@test.com",
+      "id": "4045055",
+      "role": "admin"
+    }
+  ],
+  "orders": []
+}
